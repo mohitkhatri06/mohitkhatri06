@@ -25,4 +25,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohitkhatri06&border_radius=90)](https://git.io/streak-stats)
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohitkhatri06&theme=dark&hide_border=true&border_radius=16&fire=DD0000)](https://git.io/streak-stats)
+</div>
